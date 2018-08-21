@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string name="API_KEY">AIzaSyBTYpsEx0f8FyKSRScuIFOL5_MOfQrKPRQ</string>
+    <string name="title_activity_itemsecond">itemsecond</string>
+</resources>
